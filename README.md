@@ -2,6 +2,8 @@
 
 A lightweight [SwiftBar](https://swiftbar.app/) plugin that shows Kyiv’s air raid alert status as a colored circle in the macOS menu bar. Updates every **15 seconds** using the [alerts.in.ua API](https://devs.alerts.in.ua/).
 
+<img style="margin: 0 auto; border-radius: 14 px;" width="225" height="303" alt="image" src="https://github.com/user-attachments/assets/0aa4ddb9-d25f-47e2-91dc-73ead78bb00a" />
+
 ## Status colors
 
 | Color | Meaning |
