@@ -16,8 +16,8 @@ A lightweight [SwiftBar](https://swiftbar.app/) plugin that shows Kyiv’s air r
 | Color | Meaning |
 | --- | --- |
 | 🟢 Green | No active air raid alert reported |
-| 🟡 Yellow | Yellow alert level |
-| 🔴 Red | Red alert level |
+| 🟡 Yellow | Drone attack |
+| 🔴 Red | Ballistic threat, MiG-31 takeoff, missile threat, or mass attack |
 | ⚪ Gray | Status unavailable, a token error, or an unspecified level |
 
 Colors follow the API’s current level directly. The plugin tracks **Kyiv city**, not Kyiv Oblast. A red level does not necessarily mean a missile attack.
